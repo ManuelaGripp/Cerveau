@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "theme"
+  ],
+  "baseFontSize": 14
+}
