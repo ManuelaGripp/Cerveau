@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dbd71361048a1e8f",
+        "id": "26c3164313f088ed",
         "type": "tabs",
         "children": [
           {
-            "id": "a58cd4de0e65eb95",
+            "id": "e0e5518388bf9698",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Wordpress/Migrar sem plugin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
