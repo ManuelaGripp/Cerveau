@@ -11,8 +11,12 @@
             "id": "e0e5518388bf9698",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Python/Ponto de partida.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Wordpress/Migrar sem plugin.md",
+                "file": "Personal/Python/Ponto de partida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Wordpress/Migrar sem plugin.md",
+                "file": "Personal/Python/Ponto de partida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Wordpress/Migrar sem plugin.md"
+                "file": "Personal/Python/Ponto de partida.md"
               }
             }
           },
@@ -151,10 +155,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4799cb91684fc6f2",
+  "active": "e0e5518388bf9698",
   "lastOpenFiles": [
-    "Personal/React",
+    "Personal/Ponto de Partida.md",
+    "Personal/Python/Ponto de partida.md",
+    "Untitled.md",
+    "Personal/Python",
     "Untitled",
+    "Personal/React",
     "Personal/assets/Excalidraw/Persisitir Query Params.md",
     "Personal/assets/Excalidraw",
     "Personal/assets",
@@ -171,8 +179,6 @@
     "Personal/Javascript/Bibliotecas.md",
     "Personal/Javascript",
     "Personal/Javascript/Imask.md",
-    "Personal/Flutter",
-    "Personal/Ponto de Partida.md",
     "Personal/Flutter/Flutter.md",
     "Personal/Flutter/Persistencia de Query Params.md",
     "Excalidraw/Persisitir Query Params.md",
@@ -185,7 +191,6 @@
     "Scoder/Bootstrap - iLotto Management.md",
     "Scoder/Ponto de Partida.md",
     "Scoder/iLotto/Endpoint Refactor.md",
-    "Scoder/iLotto",
     "Scoder/Images/Pasted image 20240402122441.png",
     "Scoder/Images/Pasted image 20240402121223.png",
     "Scoder/Images/Pasted image 20240402122255.png",
