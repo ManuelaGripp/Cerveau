@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Python/Ambiente Virtual.md",
+                "file": "Personal/Python/Ponto de partida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "071eb3aaa8c0d790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Python/Chatinho.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Python/Ambiente Virtual.md",
+                "file": "Personal/Python/Chatinho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Python/Ambiente Virtual.md",
+                "file": "Personal/Python/Chatinho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Python/Ambiente Virtual.md"
+                "file": "Personal/Python/Chatinho.md"
               }
             }
           },
@@ -180,9 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a13a5c0c6c51bee7",
+  "active": "071eb3aaa8c0d790",
   "lastOpenFiles": [
     "Personal/Python/Ponto de partida.md",
+    "Personal/Python/Chatinho.md",
     "Personal/Python/Ambiente Virtual.md",
     "Personal/React/Criação de componentes.md",
     "Personal/React/Ponto de Partida Reace.md",
@@ -217,7 +230,6 @@
     "Scoder/iLotto/Adicionar nova aba.md",
     "Scoder/Modules Routing.md",
     "Scoder/Bootstrap - iLotto Management.md",
-    "Scoder/Ponto de Partida.md",
     "Scoder/Images/Pasted image 20240402122441.png",
     "Scoder/Images/Pasted image 20240402121223.png",
     "Scoder/Images/Pasted image 20240402122255.png"
