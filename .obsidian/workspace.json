@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/React/Criação de componentes.md",
+                "file": "Personal/Python/Ponto de partida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a13a5c0c6c51bee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Python/Ambiente Virtual.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/React/Criação de componentes.md",
+                "file": "Personal/Python/Ambiente Virtual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/React/Criação de componentes.md",
+                "file": "Personal/Python/Ambiente Virtual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/React/Criação de componentes.md"
+                "file": "Personal/Python/Ambiente Virtual.md"
               }
             }
           },
@@ -168,12 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4799cb91684fc6f2",
+  "active": "a13a5c0c6c51bee7",
   "lastOpenFiles": [
-    "Personal/React/Ponto de Partida Reace.md",
-    "Personal/React/Criação de componentes.md",
-    "Personal/Ponto de Partida.md",
     "Personal/Python/Ponto de partida.md",
+    "Personal/Python/Ambiente Virtual.md",
+    "Personal/React/Criação de componentes.md",
+    "Personal/React/Ponto de Partida Reace.md",
+    "Personal/Ponto de Partida.md",
     "Personal/React",
     "Untitled",
     "Untitled.md",
@@ -205,7 +218,6 @@
     "Scoder/Modules Routing.md",
     "Scoder/Bootstrap - iLotto Management.md",
     "Scoder/Ponto de Partida.md",
-    "Scoder/iLotto/Endpoint Refactor.md",
     "Scoder/Images/Pasted image 20240402122441.png",
     "Scoder/Images/Pasted image 20240402121223.png",
     "Scoder/Images/Pasted image 20240402122255.png"
