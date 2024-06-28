@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26c3164313f088ed",
+        "id": "f5c5092e14885915",
         "type": "tabs",
         "children": [
           {
-            "id": "e0e5518388bf9698",
+            "id": "e49f3cbeb10a4852",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Personal/React/Ponto de Partida React.md",
-                "mode": "source",
-                "source": false
+                "file": "Personal/doceMais/assets/Pasted image 20240628104529.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/React/Ponto de Partida React.md",
+                "file": "Personal/doceMais/assets/Pasted image 20240628104529.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/React/Ponto de Partida React.md",
+                "file": "Personal/doceMais/assets/Pasted image 20240628104529.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/React/Ponto de Partida React.md"
+                "file": "Personal/doceMais/assets/Pasted image 20240628104529.png"
               }
             }
           },
@@ -156,17 +154,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0e5518388bf9698",
+  "active": "4799cb91684fc6f2",
   "lastOpenFiles": [
-    "Personal/React/Criação de componentes.md",
+    "Personal/doceMais/Inspirações.md",
+    "Personal/doceMais/assets/Pasted image 20240628104529.png",
+    "Personal/doceMais/Ponto de partida.md",
+    "Personal/doceMais/assets/Pasted image 20240628104410.png",
+    "Personal/doceMais/assets/Pasted image 20240628103845.png",
+    "Personal/doceMais/assets",
     "Personal/React/Ponto de Partida React.md",
+    "Personal/doceMais",
+    "Personal/React/Criação de componentes.md",
     "Personal/Python/Ponto de partida.md",
     "Personal/Python/Chatinho.md",
     "Personal/Python/Ambiente Virtual.md",
     "Personal/Ponto de Partida.md",
     "Untitled.md",
     "Personal/Python",
-    "Untitled",
     "Personal/React",
     "Personal/assets/Excalidraw/Persisitir Query Params.md",
     "Personal/assets/Excalidraw",
@@ -182,7 +186,6 @@
     "Personal/Wordpress",
     "Untitled 1",
     "Personal/Javascript/Bibliotecas.md",
-    "Personal/Javascript",
     "Personal/Javascript/Imask.md",
     "Personal/Flutter/Flutter.md",
     "Personal/Flutter/Persistencia de Query Params.md",
@@ -191,9 +194,6 @@
     "Personal/Javascript/Javascript.md",
     "Persistencia Query Params.md",
     "Scoder/iLotto/Adicionar novo módulo.md",
-    "Scoder/iLotto/Adicionar nova aba.md",
-    "Scoder/Modules Routing.md",
-    "Scoder/Bootstrap - iLotto Management.md",
     "Scoder/Images/Pasted image 20240402122441.png",
     "Scoder/Images/Pasted image 20240402121223.png",
     "Scoder/Images/Pasted image 20240402122255.png"
