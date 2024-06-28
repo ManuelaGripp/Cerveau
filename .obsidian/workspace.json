@@ -11,9 +11,11 @@
             "id": "e49f3cbeb10a4852",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Personal/doceMais/assets/Pasted image 20240628104529.png"
+                "file": "Scoder/iLotto/Criar novo módulo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/doceMais/assets/Pasted image 20240628104529.png",
+                "file": "Scoder/iLotto/Criar novo módulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/doceMais/assets/Pasted image 20240628104529.png",
+                "file": "Scoder/iLotto/Criar novo módulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/doceMais/assets/Pasted image 20240628104529.png"
+                "file": "Scoder/iLotto/Criar novo módulo.md"
               }
             }
           },
@@ -154,10 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4799cb91684fc6f2",
+  "active": "e49f3cbeb10a4852",
   "lastOpenFiles": [
-    "Personal/doceMais/Inspirações.md",
+    "Scoder/iLotto/iLotto.md",
+    "Scoder/iLotto/Criar novo módulo.md",
+    "Scoder/iLotto/Adicionar novo módulo.md",
+    "Scoder/iLotto/Adicionar nova aba.md",
+    "Scoder/iLotto/Endpoint Refactor.md",
     "Personal/doceMais/assets/Pasted image 20240628104529.png",
+    "Personal/doceMais/Inspirações.md",
     "Personal/doceMais/Ponto de partida.md",
     "Personal/doceMais/assets/Pasted image 20240628104410.png",
     "Personal/doceMais/assets/Pasted image 20240628103845.png",
@@ -190,10 +197,6 @@
     "Personal/Flutter/Flutter.md",
     "Personal/Flutter/Persistencia de Query Params.md",
     "Excalidraw/Persisitir Query Params.md",
-    "Scoder/iLotto/iLotto.md",
-    "Personal/Javascript/Javascript.md",
-    "Persistencia Query Params.md",
-    "Scoder/iLotto/Adicionar novo módulo.md",
     "Scoder/Images/Pasted image 20240402122441.png",
     "Scoder/Images/Pasted image 20240402121223.png",
     "Scoder/Images/Pasted image 20240402122255.png"
