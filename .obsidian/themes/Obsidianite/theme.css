@@ -71,10 +71,10 @@
   --interactive-accent-rgb: #8a5cf5;
   --font-family-editor: 'Rubik';
   --font-family-preview: 'Rubik';
-  --bg-sub-accent-55: rgba(237, 143, 19, 0.55);
+  --bg-sub-accent-55: rgba(138, 92, 245, 0.25);
   --bg-accent-55: rgba(138, 92, 245, 0.55);
   --bg-accent-25: rgba(138, 92, 245, 0.25);
-  --text-highlight-bg: rgba(237, 143, 19, 0.25);
+  --text-highlight-bg: rgba(138, 92, 245, 0.25);
   --background-modifier-border: rgba(138, 92, 245, 0.05);
   --table-border-color: rgb(138, 92, 245, 0.15);
   --test-color: rgb(122, 162, 247);

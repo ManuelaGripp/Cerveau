@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scoder/iLotto/Criar novo módulo.md",
+                "file": "Personal/React/Ponto de Partida React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f91003b405dd5b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/React/Forms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scoder/iLotto/Criar novo módulo.md",
+                "file": "Personal/React/Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scoder/iLotto/Criar novo módulo.md",
+                "file": "Personal/React/Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scoder/iLotto/Criar novo módulo.md"
+                "file": "Personal/React/Forms.md"
               }
             }
           },
@@ -156,8 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e49f3cbeb10a4852",
+  "active": "f91003b405dd5b26",
   "lastOpenFiles": [
+    "Personal/React/Ponto de Partida React.md",
+    "Personal/React/Forms.md",
+    "Personal/React/Design Pattern.md",
     "Scoder/iLotto/iLotto.md",
     "Scoder/iLotto/Criar novo módulo.md",
     "Scoder/iLotto/Adicionar novo módulo.md",
@@ -169,7 +185,6 @@
     "Personal/doceMais/assets/Pasted image 20240628104410.png",
     "Personal/doceMais/assets/Pasted image 20240628103845.png",
     "Personal/doceMais/assets",
-    "Personal/React/Ponto de Partida React.md",
     "Personal/doceMais",
     "Personal/React/Criação de componentes.md",
     "Personal/Python/Ponto de partida.md",
@@ -195,8 +210,6 @@
     "Personal/Javascript/Bibliotecas.md",
     "Personal/Javascript/Imask.md",
     "Personal/Flutter/Flutter.md",
-    "Personal/Flutter/Persistencia de Query Params.md",
-    "Excalidraw/Persisitir Query Params.md",
     "Scoder/Images/Pasted image 20240402122441.png",
     "Scoder/Images/Pasted image 20240402121223.png",
     "Scoder/Images/Pasted image 20240402122255.png"
